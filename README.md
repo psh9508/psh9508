@@ -30,7 +30,7 @@
 </a>
 </div> 
 <p align="center">
-    Let's play with  videos I made. 🎥
+    Let's play with the videos I made. 🎥
     <br />
     <br />
     <a href="https://www.youtube.com/channel/UCfCOPNvcYWBH1E_cK2I3p8Q">
