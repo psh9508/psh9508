@@ -36,10 +36,10 @@
     <br />
     <br />
     <a href="https://www.youtube.com/channel/UCfCOPNvcYWBH1E_cK2I3p8Q">
-      <img src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCfCOPNvcYWBH1E_cK2I3p8Q&key=AIzaSyBQ6lWf02uwi1Aj10LmBb3g_HIhSkj6cN0&label=Subscribers&style=for-the-badge&&color=red&labelColor=ce4630"/>
+      <img src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630&id=UCfCOPNvcYWBH1E_cK2I3p8Q&key=AIzaSyBQ6lWf02uwi1Aj10LmBb3g_HIhSkj6cN0"/>
       </a>
     <a href="https://www.youtube.com/channel/UCfCOPNvcYWBH1E_cK2I3p8Q">
-      <img src=https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCfCOPNvcYWBH1E_cK2I3p8Q&key=AIzaSyBQ6lWf02uwi1Aj10LmBb3g_HIhSkj6cN0&style=for-the-badge&color=blue&labelColor=0b689d/>
+    <img src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d&id=UCfCOPNvcYWBH1E_cK2I3p8Q&key=AIzaSyBQ6lWf02uwi1Aj10LmBb3g_HIhSkj6cN0"/>
       </a>
 </p>
 
